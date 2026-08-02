@@ -39,7 +39,7 @@ internet connection so Spark can fetch `io.delta:delta-spark` from Maven
 Central the first time it runs. Two easy options:
 
 **Option A — Databricks Community Edition (recommended, free)**
-1. Sign up at https://community.cloud.databricks.com
+1. Sign up at databricks.
 2. Create a cluster (any runtime with Spark 3.x+ works; Delta Lake ships
    built in, so you can skip the `configure_spark_with_delta_pip` step and
    just use `spark` directly).
