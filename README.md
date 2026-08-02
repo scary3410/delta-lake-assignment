@@ -103,8 +103,6 @@ delta-lake-assignment/
 │   ├── validation/
 │   └── final_output/
 │
-├── report/
-│   └── assignment_summary.pdf   (optional)
 │
 └── README.md
 ```
