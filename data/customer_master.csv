@@ -1,0 +1,9 @@
+customer_id,name,email,city,signup_date,is_active
+1,Ananya Sharma,ananya.sharma@mail.com,Delhi,2023-01-15,1
+2,Rohan Verma,rohan.verma@mail.com,Mumbai,2023-02-10,1
+3,Priya Nair,,Bangalore,2023-03-05,1
+4,Karan Mehta,karan.mehta@mail.com,Pune,2023-03-20,0
+5,Sneha Iyer,sneha.iyer@mail.com,,2023-04-01,1
+2,Rohan Verma,rohan.verma@mail.com,Mumbai,2023-02-10,1
+6,Fatima Sheikh,fatima.sheikh@mail.com,Hyderabad,2023-04-18,1
+7,Aditya Rao,aditya.rao@mail.com,Chennai,2023-05-02,1
